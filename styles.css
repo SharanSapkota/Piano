@@ -1,0 +1,29 @@
+body {
+  text-align: center;
+  background-color: orange;
+}
+
+h1 {
+  font-size: 5rem;
+  
+  
+  
+
+}.piano {
+  font-family: sans-serif;
+  padding: 300px 60px;
+  color: black;
+  background-color: white;
+  cursor: pointer;
+  margin: 0px;
+
+}
+
+#pia{
+  font-family: sans-serif;
+  cursor: pointer;
+  padding: 300px 60px;
+  color: white;
+  background-color: black;
+  margin: 0px;
+}
